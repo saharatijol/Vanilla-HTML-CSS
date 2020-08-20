@@ -110,6 +110,11 @@ img {
   z-index: 10; /*This will get the content (The sky is the Limit section) in front of the background image overlay*/
 }
 
+.hero.blog {
+  background: url('../img/home/blog.jpg') no-repeat center center/cover;
+  height: 30vh;
+}
+
 
 /* Icons */
 .icons {
